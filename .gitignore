@@ -1,0 +1,25 @@
+# ── Build outputs ──
+/build/
+/app/build/
+*.apk
+*.aab
+*.ap_
+
+# ── Gradle ──
+.gradle/
+
+# ── Local configuration (machine-specific) ──
+local.properties
+keystore.properties
+
+# ── Signing keys (DO NOT COMMIT) ──
+*.keystore
+*.jks
+
+# ── IDE ──
+.idea/
+*.iml
+
+# ── OS files ──
+.DS_Store
+Thumbs.db

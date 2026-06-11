@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clawd Mobile</string>
+    <string name="tab_sessions">会话</string>
+    <string name="tab_settings">设置</string>
+    <string name="connect">连接</string>
+    <string name="disconnect">断开</string>
+    <string name="connecting">连接中…</string>
+    <string name="connected">已连接</string>
+    <string name="disconnected">未连接</string>
+    <string name="auth_failed">认证失败</string>
+    <string name="empty_sessions">连接桌面端开始监控</string>
+    <string name="empty_sessions_hint">前往设置页配置连接</string>
+    <string name="active_sessions">活跃会话</string>
+    <string name="recent_events">最近事件</string>
+    <string name="connection_history">连接历史</string>
+    <string name="log">日志</string>
+    <string name="host_label">主机地址</string>
+    <string name="port_label">端口</string>
+    <string name="token_label">Token</string>
+    <string name="service_notification_title">Clawd Mobile</string>
+    <string name="service_notification_text">%d 个活跃会话</string>
+</resources>
